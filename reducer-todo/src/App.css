@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+.App {
+  display: flex;
+  font-family: Raleway;
+}
+
+button {
+  font-family: Raleway;
+  font-size: 1rem;
+}
+
+.colored {
+  background-color: #173F5F;
+  height: 100px;
+}
